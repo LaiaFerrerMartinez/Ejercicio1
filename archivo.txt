@@ -1,1 +1,5 @@
+HEAD
 "Conflicto desde funcionalidad 2" 
+
+"Conflicto desde funcionalidad 1" 
+
